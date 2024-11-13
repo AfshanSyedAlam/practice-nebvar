@@ -1,0 +1,24 @@
+/* .hellotext{
+    color: black;
+}
+
+#container{
+    background-color: coral;
+}
+
+.he{
+    color: brown;
+}
+.lo{
+    color: burlywood;
+} */
+
+#navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar nav ul{
+    display: flex;
+}
