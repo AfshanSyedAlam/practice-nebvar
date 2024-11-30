@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{ 
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#header nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap:20px;
+    font-size: 24px;
+    
+
+}
+#header nav ul li a{
+    align-items: center;
+    text-decoration: none;
+
+}
+.navbarline{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 100px;
+}
+
+.nabvar{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj69VercRz0bEwlqeJb32C7oFxiOKS_GON6bB_ruFdkdwsrhPyPwS-RlUYDRjdiMOI78A&usqp=CAU);
+    background-size: cover;
+
+
+   
+}
+
+.nabvar1{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.nabvar1 article div img{
+    width:200px ;
+    height: 200px;
+
+}
+.footer-content {
+    width: 100%;
+    height: 500px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding-top: 130px;
+    gap: 80px;
+    line-height: 50px;
+    font-size: 20px; 
+     background-image: url(https://newbt.org/wp-content/uploads/2019/01/AdobeStock_143798795.jpeg); 
+     background-size: cover; 
+    text-decoration-color: white;
+  }
+  
+  .head {
+    display: flex;
+    flex-direction: column;
+  }
+  .head1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .head1 p{
+    font-size: 12px;
+  }
+ 
+  .head2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .head3 {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-content {
+    width: 100%;
+    height: 500px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding-top: 130px;
+    gap: 80px;
+    line-height: 50px;
+    font-size: 20px; 
+     background-image: url(https://newbt.org/wp-content/uploads/2019/01/AdobeStock_143798795.jpeg); 
+     background-size: cover; 
+    text-decoration-color: white;
+  }
+  
+  .head {
+    display: flex;
+    flex-direction: column;
+  }
+  .head1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .head1 p{
+    font-size: 12px;
+  }
+ 
+  .head2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .head3 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+    
